@@ -1,6 +1,6 @@
 {
     "compatibility_version": 2,
-        "display_version": "0.1.0",
+        "display_version": "1.0.0",
 	"display_name": "Blue Shields TEC",
     "short_description": "Original mod: Shields Are Blue TEC (by Darkmodio2). Changes TEC shield impact effect color from red to blue. Ships frame bar colors are untouched.",
     "long_description": "Repository: https://github.com/fredomain/BlueShieldsTEC",
